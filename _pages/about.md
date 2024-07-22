@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-About Me
-======
 I am a PhD student under the supervision of [Florence d'Alché-Buc](https://perso.telecom-paristech.fr/fdalche/), [Rémi Flamary](https://remi.flamary.com) and [Charlotte Laclau](https://laclauc.github.io/) in **Télécom Paris** and **Ecole Polytechnique**. 
 
 Research Topic

@@ -1,12 +1,11 @@
 ---
-title: ""
+title: "Structured Data: Learning and Prediction"
 collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/2024-teaching-1
 venue: "Télécom Paris, Institut Polytechnique"
-start: 2023-08-18
-end: 2024-08-18
+date: 2024-00-00
 location: "Paris, France"
 ---
 
-> First year Computer Science course for the main engineering track at CentraleSupélec
+> MAP670I (DATA917) 

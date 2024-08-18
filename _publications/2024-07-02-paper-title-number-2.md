@@ -5,7 +5,7 @@ permalink: /publication/JSTAR
 excerpt: 'We propose a solver to optimize the antenna placement on satellite-mounted interferometric synthetic-aperture instruments.'
 date: 2021-07-02
 venue: 'IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing'
-slidesurl: 
+slidesurl: 'http://academicpages.github.io/files/Introduction_to_ML_for_Institut_Fourier.pdf'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9528016'
 citation: 'Krzakala, Paul and Assouel, Amine, et al. (2021). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---

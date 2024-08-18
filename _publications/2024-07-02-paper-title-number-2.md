@@ -1,5 +1,5 @@
 ---
-title: COMMING SOON
+title: COMING SOON
 collection: publications
 permalink: /publication/JSTAR
 excerpt: 

@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Warhammer Age of Sigmar
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Feel free to use my simulator for AOS v4. It can automaticaly compute different metrics about units. See the [github page](https://github.com/KrzakalaPaul/AOS)
+ for more details. 

@@ -9,19 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-<Education
+Education
 ======
-* TO DO
-* TO DO
-
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* (2023-2026) PhD at Institut Polytechnique
+* (2022-2023) Master MVA
+* (2019-2023) ENS Paris-Saclay
+* (2017-2019) Classe préparatoire Stanilas 
 
 Publications
 ======

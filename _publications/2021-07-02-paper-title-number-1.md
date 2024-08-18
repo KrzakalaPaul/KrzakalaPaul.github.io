@@ -1,8 +1,8 @@
 ---
-title: "COMMING SOON"
+title: "Irregular layout for a satellite’s interferometric array"
 collection: publications
 permalink: /publication/JSTAR
-excerpt: 'COMMING SOON.'
+excerpt: 'We propose a solver to optimize the antenna placement on satellite-mounted interferometric synthetic-aperture instruments.'
 date: 2021-07-02
 venue: 'IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing'
 slidesurl: 

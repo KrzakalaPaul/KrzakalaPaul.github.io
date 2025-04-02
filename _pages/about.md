@@ -15,4 +15,4 @@ My PhD focus on applications of **Optimal Transport** to the prediction of **str
 
 News
 ======
-Any2Graph, my first phd year paper, has been accepted as a **spotlight at Neurips 2024**! Preprint is already available [here](https://arxiv.org/abs/2402.12269). 
+[Any2Graph](https://proceedings.neurips.cc/paper_files/paper/2024/hash/b81a352c156ca123c30c740f147a4496-Abstract-Conference.html), my first phd paper, has been accepted as a **spotlight at Neurips 2024**! 

@@ -283,7 +283,7 @@ permalink: /:categories/:title/
 # paginate_path: /page:num/
 timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
-
+remote_theme: pages-themes/cayman@v0.2.0
 # Plugins
 plugins:
   - jekyll-paginate
@@ -291,6 +291,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-remote-theme
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
@@ -335,8 +336,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-gem "github-pages", group: :jekyll_plugins

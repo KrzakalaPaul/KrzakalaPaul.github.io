@@ -2,7 +2,7 @@
 title: "Any2Graph: Deep End-To-End Supervised Graph Prediction With An Optimal Transport Loss"
 collection: publications
 permalink: /publication/Any2Graph
-excerpt: "A fully diffenrentiable framework for Supervised Graph Prediction"
+excerpt: "A fully differentiable framework for Supervised Graph Prediction"
 date: 2024-07-02
 venue: "NeurIPS 2024"
 slidesurl: 

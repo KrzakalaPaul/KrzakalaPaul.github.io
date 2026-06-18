@@ -19,9 +19,10 @@ My other topics of interests include generative modelling and the robustness of 
 News
 ======
 
-[SOTAlign](https://arxiv.org/pdf/2602.23353), has been accepted at **ICML 2026**!
+The last year of my PhD was the opportunity for two amazing collobation on the theme of **multimodal alignement**.
 
-[GRALE](https://arxiv.org/abs/2505.22109), has been accepted at **Neurips 2025**!
+[SOTAlign](https://arxiv.org/pdf/2602.23353) (**ICML 2026**) is a collaboration with Simon Roschmann, Quentin Bouniot and Zeynep Akata(Technical University of Munich) and Sonia Mazelet (Ecole Polytechnique).
 
-[Any2Graph](https://proceedings.neurips.cc/paper_files/paper/2024/hash/b81a352c156ca123c30c740f147a4496-Abstract-Conference.html), has been accepted as a **spotlight at Neurips 2024**! 
+[MSAlign](https://arxiv.org/pdf/2602.23353)  (**ICML 2026, FM4LS workshop**) is a collaboration with Etienne Thevenot and Camille Lancon from CEA.
+
 

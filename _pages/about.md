@@ -11,7 +11,7 @@ I am a PhD student at **Télécom Paris** and **École Polytechnique**, supervis
 
 ## Research interests
 
-My research focuses on applying **deep learning** to **structured data** using differentiable algorithms inspired by **optimal transport**. Recently I also think a lot about the role symmetries in modern machine learning (bitter lessons or not ?) and the opportunities to rejuvenate classical algorithms within the latent space of foundation models and the future of academic research in an agentic world.
+My research focuses on applying **deep learning** to **structured data** using differentiable algorithms inspired by **optimal transport**. Recently I also think a lot about 1) the role symmetries in modern machine learning (bitter lessons or not ?) 2) the opportunities to rejuvenate classical algorithms within the latent space of foundation models and 3) the future of academic research in an agentic world.
 
 ## News
 

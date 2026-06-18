@@ -18,7 +18,8 @@ Education
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
+  {% assign publications = site.publications | sort: "year" | reverse %}
+  <ul>{% for post in publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   

@@ -3,8 +3,8 @@ title: "SOTAlign: Semi-Supervised Alignment of Unimodal Vision and Language Mode
 collection: publications
 permalink: /publication/SOTAlign
 excerpt: "Semi-supervised alignment of unimodal vision and language models using optimal transport."
-date: 2025-05-30
-venue: "arxiv preprint arXiv:2602.23353"
+date: 2026-07-10
+venue: "ICML 2026"
 slidesurl: 
 paperurl: "https://arxiv.org/abs/2602.23353"
 citation: "Roschmann, R., Krzakala, P., Mazelet, S., Bouniot, Q., Akata, Z. (2026). SOTAlign: Semi-Supervised Alignment of Unimodal Vision and Language Models via Optimal Transport." arXiv preprint arXiv:2602.23353."
